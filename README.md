@@ -32,14 +32,6 @@
 
 ---
 
-### 🐍 Snake Animation
-
-<div align="center">
-  <img src="https://github.com/MarcosPTC04/MarcosPTC04/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
 ### 📫 MAIS CONTATOS:
 
 <div align="center">
@@ -47,3 +39,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  </div>
+<div align="center">
+  <img src="https://github.com/MarcosPTC04/MarcosPTC04/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
