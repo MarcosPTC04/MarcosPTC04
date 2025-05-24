@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&lines=Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Amante+do+Dark+Theme" />
 </div>
+Desenvolvedor em formação, com foco em backend e automações. Buscando oportunidades para aplicar meus conhecimentos em projetos reais e aprender com desafios do mundo real.
 
 ---
 
