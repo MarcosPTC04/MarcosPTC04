@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Marcos PTC
+## Olá Eu sou o Marcos!
 <div>
   <a href="https://github.com/MarcosPTC04">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosPTC04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
