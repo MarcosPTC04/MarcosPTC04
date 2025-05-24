@@ -1,24 +1,52 @@
-## Olá Eu sou o Marcos!
-<div>
-  <a href="https://github.com/MarcosPTC04">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosPTC04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPTC04&layout=compact&langs_count=16&theme=tokyonight"/>
-  </a>
+<h1 align="center">Olá! Eu sou o Marcos 👨‍💻</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&lines=Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Amante+do+Dark+Theme" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcos-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Marcos-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C/C-plain.svg">
-  <img align="center" alt="Marcos-Python" height="30" width="40" src="</div>
+---
 
-##
+### 🧠 Sobre Mim
 
-<div>
-  <a href="https://instagram.com/_marc0s_a" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00BFFF" target="_blank">
-  </a>
+- 💻 Atualmente focado em: `Python`, `Java`, `C`
+- 📚 Estudando: **Analise e Desenvolvimento de Sistemas**
+- 🚀 Projetos pessoais: automações, bots e web apps
+- ✉️ Contato: `marcosantonio.ptc04@gmail.com`
+
+---
+
+### 🛠️ Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=j,py,c,java,git,github,&theme=dark" />
 </div>
 
-![Snake animation](https://github.com/MarcosPTC04/MarcosPTC04/blob/output/github-contribution-grid-snake.svg)
+---
 
+### 📈 GitHub Stats
 
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcosPTC04&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPTC04&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🐍 Snake Animation
+
+<div align="center">
+  <img src="https://github.com/MarcosPTC04/MarcosPTC04/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+### 📫 Vamos nos conectar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:marcosantonio.ptc04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
