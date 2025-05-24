@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/marcos-antonio-88b01b368/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="mailto:marcosantonio.ptc04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:marcosantonio.ptc04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
