@@ -11,11 +11,11 @@
 - 💻 Atualmente focado em: `Python`, `Java`, `C`
 - 📚 Estudando: **Analise e Desenvolvimento de Sistemas**
 - 🚀 Projetos pessoais: automações, bots e web apps
-- ✉️ Contato: `marcosantonio.ptc04@gmail.com`
+- ✉️ Contato: `marcosantonio.ptc04@gmail.com`  
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ LINGUAGENS
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=j,py,c,java,git,github,&theme=dark" />
@@ -40,13 +40,10 @@
 
 ---
 
-### 📫 Vamos nos conectar
+### 📫 MAIS CONTATOS:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcos-antonio-88b01b368/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:marcosantonio.ptc04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
+ </div>
