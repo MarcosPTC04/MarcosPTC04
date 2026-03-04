@@ -16,7 +16,6 @@ Desenvolvedor em formação, com foco em backend e automações. Buscando oportu
 
 --- 
 ### 🛠️ LINGUAGENS
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVoMHVpM3plaGN4d3h1d2pzeWxhcTZpZTRpbTcyMm5pZmQ1eTQ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" width="140" style="display:inline-block; vertical-align:middle;" /> 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=j,py,c,java,git,github,&theme=dark" />
