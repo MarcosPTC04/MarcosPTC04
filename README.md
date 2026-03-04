@@ -23,15 +23,6 @@ Desenvolvedor em formação, com foco em backend e automações. Buscando oportu
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=MarcosPTC04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPTC04&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ### 📫 MAIS CONTATOS:
 
 <div align="center">
